@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "八月、某、月明かり",
+  "base_artist": "ヨルシカ",
+  "createdAt": "2025-12-23T06:02:31.504713Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "八月、某、月明かり",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/01_八月、某、月明かり_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "八月、某、月明かり",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/02_八月、某、月明かり_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "八月、某、月明かり (「月光」 LIVE ver.)",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/03_八月、某、月明かり_(「月光」_LIVE_ver.)_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "八月、某、月明かり",
+      "artist": "ヨルシカ (Yorushika、n-buna ナブナ、suis)",
+      "has_synced": true,
+      "path": "select/04_八月、某、月明かり_ヨルシカ_(Yorushika、n-buna_ナブナ、suis).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "八月、某、月明かり (August, That Place, Moonlight)",
+      "artist": "ヨルシカ (Yorushika)",
+      "has_synced": true,
+      "path": "select/05_八月、某、月明かり_(August,_That_Place,_Moonlight)_ヨルシカ_(Yorushika).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "八月、某、月明かり",
+      "artist": "Yorushika (ヨルシカ)",
+      "has_synced": true,
+      "path": "select/06_八月、某、月明かり_Yorushika_(ヨルシカ).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "八月、某、月明かり",
+      "artist": "ヨルシカ",
+      "has_synced": false,
+      "path": "select/pl_01_八月、某、月明かり_ヨルシカ.txt"
+    }
+  ]
+}
